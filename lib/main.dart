@@ -8,7 +8,7 @@ class BuySellStockApp extends StatelessWidget {
     return MaterialApp(
       title: 'Buy and Sell Stocks',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.blue, // Deepanshu
       ),
       home: BuySellStockPage(),
     );
